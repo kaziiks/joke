@@ -1,0 +1,25 @@
+.joke {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.joke-type {
+  font-size: 1.2em;
+  color: #555;
+  margin-bottom: 8px;
+}
+
+.joke-setup {
+  font-size: 1em;
+  margin-bottom: 4px;
+}
+
+.joke-punchline {
+  font-size: 1em;
+  font-weight: bold;
+  color: #333;
+}
